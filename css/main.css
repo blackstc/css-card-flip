@@ -13,10 +13,6 @@
   transition: transform 1s;
 }
 
-.secondary {
-  -webkit-transform: rotateY(-180deg);
-          transform: rotateY(-180deg);
-}
 
 .portfolio-item:hover .primary{
   -webkit-transform: rotateY(-180deg);
